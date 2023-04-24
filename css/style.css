@@ -1,0 +1,16 @@
+#navbarSupportedContent .navbar-nav .nav-item .nav-link{
+    color: white;
+}
+
+#carouselExampleSlidesOnly .carousel-inner .carousel-item img{
+max-height: 450px;
+width: auto;
+}
+
+#carouselExampleSlidesOnly .carousel-inner .carousel-item .carousel-caption{
+    background: rgba(18, 17, 17,0.6);
+}
+p{
+    font-style: italic;
+}
+    
